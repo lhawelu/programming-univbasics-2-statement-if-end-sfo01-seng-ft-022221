@@ -4,5 +4,3 @@ if current_time.even? #% 2 == 0
 else
   puts "Odd"
 end
-
-puts current_time
